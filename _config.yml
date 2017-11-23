@@ -1,34 +1,34 @@
 # Basic
-title: 潘柏信
+title: mikayla
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: mikayla
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: Java
 url: "http://baixin.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: mikayla
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: mikayla 
+    github: mikayla
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: mikayla@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+#    id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3   
+#    id: UA-84134159-3   
     host: auto  
 
 
